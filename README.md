@@ -28,3 +28,17 @@ The primary source of data used is HR data.csv file and this is an open source d
   
 ![image](https://github.com/user-attachments/assets/fe2f62de-b5f0-4b00-9734-9b67732b873d)
 
+## KPI's (Key Performance Indicators)
+
+
+
+
+
+
+
+
+
+
+## Power BI Visualization
+
+<img width="488" alt="HR Dashboard" src="https://github.com/user-attachments/assets/31c1b251-31d4-4073-926a-3970792bf459">
