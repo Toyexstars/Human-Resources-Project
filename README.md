@@ -28,17 +28,30 @@ The primary source of data used is HR data.csv file and this is an open source d
   
 ![image](https://github.com/user-attachments/assets/fe2f62de-b5f0-4b00-9734-9b67732b873d)
 
+## DAX Analysis
+- What is the total number of employee that left the organization?
+- What is the total number of current employee?
+- What is the average age and marital status of the employee?
+  
 ## KPI's (Key Performance Indicators)
+1. Employee Count: Total number of employee
+2. Attrition Count: Number of ex- employee
+3. Current employee: Difference between the employee count and attrition
+4. Attrition Rate: Attrition count divided by employee count
+5. Average Age: Average of total age
 
-
-
-
-
-
-
-
+## Chart Requirements
+1. Total employee by Age (Donut Chart): To determine the distribution of age in the organization.
+2. Total Employee by Marital Status and Gender (Barchart): To analyze categories of employee by their marital status and gender.
+3. Total employee by Department (Pie Chart): To analyze percentage of employee by their department.
+4. Total Employee BY Job role (Line Chart): To understand trend of employee by their job role.
+5. Attrition by Department: To analyze number of employee that left the organization by department.
+6. Attrition by Education Field: To analyze number of employee that left the oragnization by education field.
 
 
 ## Power BI Visualization
 
 <img width="488" alt="HR Dashboard" src="https://github.com/user-attachments/assets/31c1b251-31d4-4073-926a-3970792bf459">
+
+## Recommendation and Conclusion
+
