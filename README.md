@@ -54,4 +54,7 @@ The primary source of data used is HR data.csv file and this is an open source d
 <img width="488" alt="HR Dashboard" src="https://github.com/user-attachments/assets/31c1b251-31d4-4073-926a-3970792bf459">
 
 ## Recommendation and Conclusion
-
+Based on the analysis above, the following are deduced:
+1. The highest number of employee are between the age 25-34 and more male gender than female.
+2. R & D has the highest number of attrition by department. The employee may be unsatified with work enviroment.
+   
