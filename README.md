@@ -53,8 +53,17 @@ The primary source of data used is HR data.csv file and this is an open source d
 
 <img width="488" alt="HR Dashboard" src="https://github.com/user-attachments/assets/31c1b251-31d4-4073-926a-3970792bf459">
 
-## Recommendation and Conclusion
+## Result and findings
 Based on the analysis above, the following are deduced:
+1.Total employee in the organization is 1.47k, 237 employee left the organization and we have 1233 current employee.
+2. 673 are mmarried, 470 are single and 327 are divorced.
+3. 97 employee falls under 25 age group, 554 employee are within 25-34 age group, 505 employee are within 35-44 age group, 245 employee are within45-54 age group and 69 employee are over 55.
+4. There are 961 employee in R&D department, 446 employee in sales department, and 63 employee in human resources department.
+5. 282 employee have Associate degree, 572 employee have Bachelor's degree,170 employee have High School, 48 employee have Doctoral Degree, and 398nemployee have master Degree.
+6. 27 employee are in Human resources education field, 606 are in Life science education field, 159 employee are in marketing education field, 464 employee in medical education field, 82 employee are in other educational field, 133 employee are in technical education field.
+7. Based on the job role, there are 326 employee are sales executive, 292 are Research scientist,259 employee are Laboratory techician, 145 employee are Manufacturing Director, 131 are Healthcare representative. 102 are managers, 83 emploee are Sales representative, 80 employee are Resaerch director and 62 are Human resources.
+
+### Attrition Analysis
 1. The highest number of employee are between the age 25-34 and more male gender than female.
 2. R & D has the highest number of attrition by department. The employee may be unsatified with work enviroment.
    
