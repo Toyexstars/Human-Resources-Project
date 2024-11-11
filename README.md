@@ -5,7 +5,16 @@
 This project aimed to gain an insight to the attrition of the employee based on their age, job role, department, education field and marital status.
 
 ## Data Source 
-The primary source of data used is HR data.csv file and this is an open source data from Kaggle.
+The primary source of data used is HR data.csv file and this is an open source data from Kaggle. The data contains some key columns such as:
+- Atrition
+- CF-age-band
+- Current employee
+- Gender
+- Education
+- Education field
+- Department
+- Job role
+- Marital status
 
 ## Tools Used
 - Microsoft Excel
@@ -54,16 +63,32 @@ The primary source of data used is HR data.csv file and this is an open source d
 <img width="488" alt="HR Dashboard" src="https://github.com/user-attachments/assets/31c1b251-31d4-4073-926a-3970792bf459">
 
 ## Result and findings
-Based on the analysis above, the following are deduced:
-1.Total employee in the organization is 1.47k, 237 employee left the organization and we have 1233 current employee.
-2. 673 are mmarried, 470 are single and 327 are divorced.
-3. 97 employee falls under 25 age group, 554 employee are within 25-34 age group, 505 employee are within 35-44 age group, 245 employee are within45-54 age group and 69 employee are over 55.
-4. There are 961 employee in R&D department, 446 employee in sales department, and 63 employee in human resources department.
-5. 282 employee have Associate degree, 572 employee have Bachelor's degree,170 employee have High School, 48 employee have Doctoral Degree, and 398nemployee have master Degree.
-6. 27 employee are in Human resources education field, 606 are in Life science education field, 159 employee are in marketing education field, 464 employee in medical education field, 82 employee are in other educational field, 133 employee are in technical education field.
-7. Based on the job role, there are 326 employee are sales executive, 292 are Research scientist,259 employee are Laboratory techician, 145 employee are Manufacturing Director, 131 are Healthcare representative. 102 are managers, 83 emploee are Sales representative, 80 employee are Resaerch director and 62 are Human resources.
+  Based on the analysis above, the following are deduced:
+  - Total employee in the organization is 1.47k, 237 employee left the organization, 16% of the total and we have 1233 current employee.
+  - 673 are married, 470 are single and 327 are divorced.
+  - 97 employee falls under 25 age group, 554 employee are within 25-34 age group, 505 employee are within 35-44 age group, 245 employee are within45-54 age group and 69 
+    employee are over 55.
+  - There are 961 employee in R&D department, 446 employee in sales department, and 63 employee in human resources department.
+  - 282 employee have Associate degree, 572 employee have Bachelor's degree,170 employee have High School, 48 employee have Doctoral Degree, and 398nemployee have master 
+    Degree.
+  - 27 employee are in Human resources education field, 606 are in Life science education field, 159 employee are in marketing education field, 464 employee in medical 
+   education field, 82 employee are in other educational field, 133 employee are in technical education field.
+  - Based on the job role, there are 326 employee are sales executive, 292 are Research scientist,259 employee are Laboratory techician, 145 employee are Manufacturing 
+    Director, 131 are Healthcare representative. 102 are managers, 83 emploee are Sales representative, 80 employee are Resaerch director and 62 are Human resources.
 
 ### Attrition Analysis
 1. The highest number of employee are between the age 25-34 and more male gender than female.
-2. R & D has the highest number of attrition by department. The employee may be unsatified with work enviroment.
-   
+2. R & D has the highest number of attrition by department (133 employee, 90 male and 43 female) that is 56.12%. The employee may be unsatified with work enviroment.
+3. Life science has the highest number of attrition in education field.
+4. Laboratory technician has the highest number of attrition based on job role (62 employees).
+5. Employee with barchelor's degree has the number of attrition.
+
+### Recommendation
+1. Employee between the age 25-34 are active working class who are always in search of green pasture, therefore the organization should review their salary structure and also, provide on the job benefit.
+2. The organization can also offer a comprehensive benefits package that addresses employee's needs, including healt insurance and retirement plan.
+3. To prevent rate of attrition, the organization should promote flexible work arrangement.
+4. The organization should foster a positive workplace culture and encourage open communication.
+
+### Conclusion
+By understanding the reasons employees leave and implementing proactive solutions,the  organization can improve retention rates.
+
